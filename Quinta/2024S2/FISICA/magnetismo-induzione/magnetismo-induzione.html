@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-12-08 Sun 17:41 -->
+<!-- 2024-12-08 Sun 18:40 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -247,7 +247,12 @@
 </li>
 <li><a href="#org509b7d8">2. Circuitazione del campo magnetico</a>
 <ul>
-<li><a href="#org265e808">2.1. Teorema di Ampere per la circuitazione del campo magnetico</a></li>
+<li><a href="#org265e808">2.1. Teorema di Ampere per la circuitazione del campo magnetico</a>
+<ul>
+<li><a href="#orgde1201d">2.1.1. Non conservativita' del campo magnetico</a></li>
+<li><a href="#orgf53881b">2.1.2. Dimostrazione del teorema di Ampere</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -263,7 +268,7 @@ Allo stesso modo del flusso elettrico, il suo valore attraverso una superficie c
 
 
 
-<div id="orgda0cc75" class="figure">
+<div id="orgee9f3f3" class="figure">
 <p><img src="img/Flusso_del_campo_magnetico/2024-12-08_15-29-30_screenshot.png" alt="2024-12-08_15-29-30_screenshot.png" width="50%" align="center" />
 </p>
 </div>
@@ -325,8 +330,69 @@ Il teorema di Ampere relativo alla circuitazione mette in relazione la circuitaz
 
 
 
-<div id="org5fc5c81" class="figure">
+<div id="orge416b87" class="figure">
 <p><img src="img/Circuitazione_del_campo_magnetico/2024-12-08_17-40-53_screenshot.png" alt="2024-12-08_17-40-53_screenshot.png" width="50%" align="center" />
+</p>
+</div>
+
+<p>
+Data una linea chiusa \( L \) e fissato un verso di percorrenza su di essa, una corrente concatenata e' da considerarsi positiva se il campo da essa generato segue il verso di percorrenza, negativa se non lo segue. La corrente concatenata totale e' definita dalla sommatoria delle correnti concatenate \( i_{tot} = \sum_{k=1}^{n} i_k \). Il teorema di Ampere per la circuitazione lungo una linea chiusa del campo magnetico afferma che:
+</p>
+
+<p>
+\[ C_{L} (\vec{B}) = \mu_0 i_tot \]
+</p>
+
+<p>
+in cui \( \mu_0 \) rappresenta la permeabilita' magnetica del vuoto, pari a \( \mu_0 = 4,0 \pi \cdot 10^{-7} \frac{N}{A^2} \).
+</p>
+</div>
+<div id="outline-container-orgde1201d" class="outline-4">
+<h4 id="orgde1201d"><span class="section-number-4">2.1.1.</span> Non conservativita' del campo magnetico</h4>
+<div class="outline-text-4" id="text-2-1-1">
+<p>
+La circuitazione del campo magnetico quindi non e' sempre zero. Questa dipende infatti dalle correnti che circonda. Il lavoro svolto dal campo magnetico lungo una linea chiusa puo' quindi non essere pari a zero, se vi e' almeno una corrente concatenata al percorso considerato. Questo e' sufficiente per affermare che il campo magnetico non sia conservativo, a differenza di quello elettrico.  
+</p>
+</div>
+</div>
+<div id="outline-container-orgf53881b" class="outline-4">
+<h4 id="orgf53881b"><span class="section-number-4">2.1.2.</span> Dimostrazione del teorema di Ampere</h4>
+<div class="outline-text-4" id="text-2-1-2">
+<p>
+Per semplicita' dimostrativa, supponiamo che vi sia una corrente \( i \) posta sull'asse di una linea chiusa \( L \), circonferenza di raggio \( r \). In questo modo, ad ogni segmento di \( L \) considerato corrisponde, per la legge di Biot-Savart, un vettore campo \( \vec{B} \) di modulo \( B = \frac{\mu_0}{2\piu} \frac{i}{r} \).
+Possiamo considerare dei piccoli spostamenti \( \Delta l_1 \dots \Delta l_n \) con stessa direzione e stesso verso dei corrispondenti vettori campo magnetico. Dividendo la linea \( L \) in \( j \) tratti, possiamo affermare che in ogni tratto
+</p>
+
+<p>
+\[ \vec{B_j} \cdot \Delta \vec{l_j} = B \Delta l_j \]
+</p>
+
+<p>
+Per questo motivo possiamo applicare la proprieta' distributiva dell'addizione sul campo magnetico.
+</p>
+
+<p>
+\[ C_L (\vec{B}) = \sum_{j=1}^{n} \vec{B_j} \cdot \Delta \vec{l_j} = \sum_{j=1}^{n} B \cdot \Delta l_j = B \sum_{j=1}^{n} \Delta l_j \]
+</p>
+
+<p>
+Ma la sommatoria dei tratti infinitesimi costituenti la circonferenza non e' altro che la circonderenza stessa:
+</p>
+
+<p>
+\[ \sum_{j=1}^{n} \Delta l_j = 2 \pi r \]
+</p>
+
+<p>
+Quindi:
+</p>
+
+<p>
+C<sub>L</sub> (\vec{B}) = B &sum;<sub>j=1</sub><sup>n</sup> &Delta; l<sub>j</sub> = 2 &pi; r B = 2 &pi; r \frac{\mu_0 i}{2 \pi r} = &mu;<sub>0</sub> i
+</p>
+
+<p>
+In questo caso otteniamo la forma del teorema di Ampere nel caso la corrente concatenata sia solo una, ma e' possibile dimostrare anche la sua generalizzazione con \( i_{tot} \).
 </p>
 </div>
 </div>
