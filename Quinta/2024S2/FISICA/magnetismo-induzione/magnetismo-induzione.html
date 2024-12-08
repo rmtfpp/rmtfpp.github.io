@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-12-08 Sun 18:42 -->
+<!-- 2024-12-08 Sun 19:08 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -255,6 +255,7 @@
 </li>
 </ul>
 </li>
+<li><a href="#org11eee4f">3. Campo magnetico di un solenoide infinito</a></li>
 </ul>
 </div>
 </div>
@@ -268,7 +269,7 @@ Allo stesso modo del flusso elettrico, il suo valore attraverso una superficie c
 
 
 
-<div id="org3abfb80" class="figure">
+<div id="org55117c0" class="figure">
 <p><img src="img/Flusso_del_campo_magnetico/2024-12-08_15-29-30_screenshot.png" alt="2024-12-08_15-29-30_screenshot.png" width="50%" align="center" />
 </p>
 </div>
@@ -330,7 +331,7 @@ Il teorema di Ampere relativo alla circuitazione mette in relazione la circuitaz
 
 
 
-<div id="org39b36de" class="figure">
+<div id="org9b34aa2" class="figure">
 <p><img src="img/Circuitazione_del_campo_magnetico/2024-12-08_17-40-53_screenshot.png" alt="2024-12-08_17-40-53_screenshot.png" width="50%" align="center" />
 </p>
 </div>
@@ -360,7 +361,11 @@ La circuitazione del campo magnetico quindi non e' sempre zero. Questa dipende i
 <div class="outline-text-4" id="text-2-1-2">
 <p>
 Per semplicita' dimostrativa, supponiamo che vi sia una corrente \( i \) posta sull'asse di una linea chiusa \( L \), circonferenza di raggio \( r \). In questo modo, ad ogni segmento di \( L \) considerato corrisponde, per la legge di Biot-Savart, un vettore campo \( \vec{B} \) di modulo \( B = \frac{\mu_0}{2\pi} \frac{i}{r} \).
-Possiamo considerare dei piccoli spostamenti \( \Delta l_1 \dots \Delta l_n \) con stessa direzione e stesso verso dei corrispondenti vettori campo magnetico. Dividendo la linea \( L \) in \( j \) tratti, possiamo affermare che in ogni tratto
+Possiamo considerare dei piccoli spostamenti \( \Delta l_1 \dots \Delta l_n \) con stessa direzione e stesso verso dei corrispondenti vettori campo magnetico. Questo comporta che l'angolo tra i due vettori sia tendente allo zero e che quindi il loro prodotto scalare sia uguale al loro prodotto.
+</p>
+
+<p>
+Dividendo la linea \( L \) in \( j \) tratti, possiamo affermare che in ogni tratto
 </p>
 
 <p>
@@ -396,6 +401,60 @@ In questo caso otteniamo la forma del teorema di Ampere nel caso la corrente con
 </p>
 </div>
 </div>
+</div>
+</div>
+<div id="outline-container-org11eee4f" class="outline-2">
+<h2 id="org11eee4f"><span class="section-number-2">3.</span> Campo magnetico di un solenoide infinito</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Se il solenoide è composto da \(n\) spire per unità di lunghezza, è vuoto all’interno ed è percorso da una corrente di intensità \(i\), il modulo del campo all’interno, lontano dai bordi, soddisfa all’incirca l’equazione
+</p>
+
+<p>
+\[ B = \mu_0 n i \]
+</p>
+
+<p>
+Tutte queste proprietà, approssimative per un solenoide di lunghezza finita, diventano esatte nel caso ideale di un solenoide infinito.
+Consideriamo ora un solenoide infinito e una linea chiusa \( MNOP \) come in figura. Possiamo affermare che la circuitazione \( C_{MNOP} \) lungo tale linea possa essere calcolara, per definizione, come
+</p>
+
+<p>
+\[ L_{MNOP} = \vec{MN} \cdot \vec{B} +  \vec{NO} \cdot \vec{B} +  \vec{OP} \cdot \vec{B} +  \vec{PM} \cdot \vec{B} \]
+</p>
+
+
+<div id="org2132689" class="figure">
+<p><img src="img/Campo_magnetico_di_un_solenoide_infinito/2024-12-08_18-50-37_screenshot.png" alt="2024-12-08_18-50-37_screenshot.png" width="80%" align="center" />
+</p>
+</div>
+
+
+
+<ul class="org-ul">
+<li>\( \vec{MN} \cdot \vec{B} = \overline{MN} B \) in quanto l'angolo tra i due vettori e' zero (e quindi il loro prodotto scalare e' uguale al loro prodotto)</li>
+<li>\( \vec{NO} \cdot \vec{B} = \vec{PM} \cdot \vec{B} = 0\) in quanto nel loro tratto interno al solenoide il campo magnetico e' perpendicolare ai vettori spostamento (quindi il prodotto scalare vale \( 0 \)) e nel loro tratto esterno al solenoide il campo vale \( 0 \).</li>
+<li>\( \vec{MN} \cdot \vec{B} = 0 \) in quanto il valore del campo magnetico al di fuori del solenoide e' \( 0 \).</li>
+</ul>
+
+<p>
+Quindi, per definizione, possiamo affermare che
+\[ C_{MNOP} = \overline{MN} B = l B \]
+</p>
+
+<p>
+Considerando invece il teorema di Ampere per la circuitazione del campo magnetico, possiamo affermare che
+\[ C_{MNOP} = \mu_0 i_{tot} \]
+In questo caso \( i_{tot} \), essendo la sommatoria di correnti concatenate uguali, vale \( nli \), in cui \( n \) rappresenta la densita \( N/l \) di correnti concatenate nella sezione considerata e \( l \) la lunghezza della sezione stessa. Possiamo quindi concludere che
+</p>
+
+<p>
+\[ Bl = \mu_0 nli \implies B = \mu_0 ni \]
+</p>
+
+<p>
+con \( n \) rappresentante il numero di correnti concatenate per metro di lunghezza.
+</p>
 </div>
 </div>
 </div>
