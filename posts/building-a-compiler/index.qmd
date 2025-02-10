@@ -6,5 +6,6 @@ categories: [c, compiler]
 image: image.png
 ---
 
-This is my journey tryna build a compiler.
+In questa serie di articoli cerchero' di riassumere alcuni passi fondamentali nella scrittura di un compilatore in linguaggio C[^1].
 
+[^1]: Il codice sorgente si trova in questa [repository](https://github.com/rmtfpp/ccc)

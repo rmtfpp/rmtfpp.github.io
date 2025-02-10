@@ -4,7 +4,14 @@
     "href": "posts/building-a-compiler/index.html",
     "title": "Scrivere un Copilatore in C",
     "section": "",
-    "text": "This is my journey tryna build a compiler."
+    "text": "In questa serie di articoli cerchero’ di riassumere alcuni passi fondamentali nella scrittura di un compilatore in linguaggio C1."
+  },
+  {
+    "objectID": "posts/building-a-compiler/index.html#footnotes",
+    "href": "posts/building-a-compiler/index.html#footnotes",
+    "title": "Scrivere un Copilatore in C",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIl codice sorgente si trova in questa repository↩︎"
   },
   {
     "objectID": "about/index.html",
