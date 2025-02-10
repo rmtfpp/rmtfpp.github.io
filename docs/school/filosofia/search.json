@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "materia",
+    "section": "",
+    "text": "Prefazione\nPrefazione al documento",
+    "crumbs": [
+      "Prefazione"
+    ]
+  },
+  {
+    "objectID": "chapters/intro.html",
+    "href": "chapters/intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Questo libro e’ stato creato in markdown e codice eseguibile",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  }
+]

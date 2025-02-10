@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Filippo Romiti"
+  description: "Web mirror for my notes"
+  navbar:
+    left:
+      - text: rmtfpp
+        href: /
+      - text: "Scuola"
+        href: school
+      - text: "Uni"
+        href: uni
+      - text: "Notebook"
+        href: posts
+  site-path: "/"
+  page-footer:
+    center:
+      - text: "About"
+        href: about
+      - text: "License"
+        href: license
+
+
+format:
+  html:
+    theme: [sandstone, default.scss]
+    toc: true
+
+
+

@@ -1,0 +1,24 @@
+---
+title: "Filippo Romiti"
+about:
+  template: trestles
+  links:
+  - text: GitHub
+    url: "https://github.com/rmtfpp"
+  - text: Email
+    url: "mailto:dev.rmtfpp@gmail.com"
+  - text: CV
+    url: "cv.pdf"
+comments: false
+---
+
+
+## Bio
+
+Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo' Copernico di Brescia (IT).
+
+## Projects
+
+#### C Projects
+
+**[yac](https://github.com/rmtfpp/yac)** | Yet Another Caluclator 
