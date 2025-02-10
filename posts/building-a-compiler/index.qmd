@@ -6,6 +6,12 @@ categories: [c, compiler]
 image: image.png
 ---
 
-In questa serie di articoli cerchero' di riassumere alcuni passi fondamentali nella scrittura di un compilatore in linguaggio C[^1].
+## Introduzione
+
+L'astrazione e' cio' su cui si basa il software moderno. E' infatti una tendenza dell'informatica quella di passare a livelli di astrazione sempre superiori col passare del tempo. Basti pensare a come si e' passati da scrivere machine-code, passando poi ad assembly, C e i moderni linguaggi di programmazione, arrivando infine a programmare in linguaggio umano con l'intermediazione dei LLMs. Le nuove frontiere dell'informatica sono sicuramente affascinanti, ma ritengo di dover prima consolidare in modo definitivo i concetti che costituiscono le basi dell'infromatica.
+
+Sono infatti dell'idea che le astrazioni siano strumenti potentissimi, comodissimi e fondamentali, ma credo anche che la conoscenza degli impianti teorici ad esse sottostanti sia importante dal punto di vista formativo. Per questo motivo ho deciso di iniziare questo progetto, in cui mi prefisso come obiettivo la scrittura di un compilatore.
+
+In questa serie di articoli riportero' alcuni dei passaggi fondamentali di questo percorso. Scrivero' il compilatore in C[^1], per motivi di familiarita' con la lingua e adeguatezza ai fini del progetto.
 
 [^1]: Il codice sorgente si trova in questa [repository](https://github.com/rmtfpp/ccc)
