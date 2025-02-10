@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/building-a-compiler/index.html",
+    "href": "posts/building-a-compiler/index.html",
+    "title": "Scrivere un Copilatore in C",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is my journey tryna build a compiler."
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Notebook",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 3, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "license/index.html",
-    "href": "license/index.html",
-    "title": "MIT License",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2025 Filippo Romiti\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "school/index.html",
-    "href": "school/index.html",
-    "title": "School",
-    "section": "",
-    "text": "Matematica\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Scienze\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n        \n      \n\n\nNo matching items"
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -49,17 +35,24 @@
     "text": "Projects\n\nC Projects\nyac | Yet Another Caluclator"
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "school/index.html",
+    "href": "school/index.html",
+    "title": "School",
     "section": "",
-    "text": "About this site"
+    "text": "Matematica\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Scienze\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n        \n      \n\n\nNo matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "license/index.html",
+    "href": "license/index.html",
+    "title": "MIT License",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "MIT License\nCopyright (c) 2025 Filippo Romiti\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Scrivere un Copilatore in C\n\n\n\n\n\n\nc\n\n\ncompiler\n\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\nFilippo Romiti\n\n\n\n\n\n\nNo matching items"
   }
 ]

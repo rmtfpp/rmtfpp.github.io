@@ -1,0 +1,10 @@
+---
+title: "Scrivere un Copilatore in C"
+author: "Filippo Romiti"
+date: last-modified
+categories: [c, compiler]
+image: image.png
+---
+
+This is my journey tryna build a compiler.
+

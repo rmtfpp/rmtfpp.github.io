@@ -1,13 +1,12 @@
 [
   {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/school/index.html",
     "items": []
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/building-a-compiler/index.html"
+    ]
   }
 ]
