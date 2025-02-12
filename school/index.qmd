@@ -9,5 +9,8 @@ listing:
     - name: Scienze
       href: scienze
       custom-field: 2024/2025
+    - name: Filosofia
+      href: filosofia
+      custom-field: 2024/2025
 ---
 
