@@ -2,21 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "materia",
+    "title": "Filosofia",
     "section": "",
-    "text": "Prefazione\nPrefazione al documento",
+    "text": "1 Appunti di Filosofia\nAppunti di Filosofia1.\n\n\n1 Liceo Scientifico Copernico (BS)",
     "crumbs": [
-      "Prefazione"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Appunti di Filosofia</span>"
     ]
   },
   {
-    "objectID": "chapters/intro.html",
-    "href": "chapters/intro.html",
-    "title": "1  Introduction",
+    "objectID": "chapters/schopenhauer.html",
+    "href": "chapters/schopenhauer.html",
+    "title": "2  Arthur Schopenhauer",
     "section": "",
-    "text": "Questo libro e’ stato creato in markdown e codice eseguibile",
+    "text": "2.1 Vita\nArthur Schopenhauer fu un filosofo tedesco vissuto tra il 1788 (Danzica) e il 1860 (Frankfurt am Mein). Il suo pensiero espresse critica nei confronti di Hegel1, come quello di Kierkegaard (pur con differenze). Come Kierkegaard decide anche di non trattare temi direttamente politici.\nNasce da famiglia benestante, ma preferisce gli studi agli affari di famiglia. Inizialmente riceve scarsa considerazione dagli intellettuali del tempo, ma conosce un successo tardivo. “Il mondo come volontà e rappresentazione” non ha fortuna. Solo dopo il 1850, quando Il suo pensiero trova più riscontro, grazie alla diffusione di idee pessimistiche, si rivaluta il suo pensiero. “Parerga e Paralipomena” (raccolta di aforismi) ha invece subito successo.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/schopenhauer.html#opere",
+    "href": "chapters/schopenhauer.html#opere",
+    "title": "2  Arthur Schopenhauer",
+    "section": "2.2 Opere",
+    "text": "2.2 Opere\n\n2.2.1 Sulla quadruplice radice del principio di ragion sufficiente2 (1813)\nSchopenhauer individua quattro modalità attraverso cui tutto ciò che esiste ha una causa o una spiegazione:\n- Radice logica (principio di non contraddizione)\n- Radice causale (nel mondo fisico)\n- Radice matematica (nelle relazioni numeriche e geometriche)\n- Radice motivazionale (che regola il comportamento umano)\nÈ il primo lavoro filosofico di Schopenhauer, in cui getta le basi per la sua concezione del mondo.\n\n2 E’ un trattato che approfondisce il concetto di principio di ragion sufficiente, sviluppato da Leibniz.3 È il capolavoro di Schopenhauer, sebbene abbia ottenuto fama solo molto più tardi.\n2.2.2 Il mondo come volonta’ e rappresentazione3 (1818)\nPropone una visione pessimistica della realtà, affermando che il mondo è dominato dalla volontà, una forza irrazionale e cieca che muove tutte le cose.\nDistingue tra mondo fenomenico (ciò che percepiamo, ovvero la “rappresentazione”) e noumeno (la vera essenza del mondo, identificata con la volontà).\nL’essere umano è destinato a soffrire perché la volontà è insaziabile, ma si può attenuare il dolore attraverso l’arte (la contemplazione estetica) e l’ascesi.\n\n\n2.2.3 Parerga e Paralipomena4 (1851)\nÈ una raccolta di aforismi, saggi e riflessioni su diversi argomenti, dalla filosofia alla psicologia, fino alla religione.\nSebbene meno sistematica, è l’opera che lo rende famoso: il pubblico apprezza il suo stile accessibile e i contenuti pratici, spesso cinici e ironici.\n\n4 Il titolo significa “Opere secondarie e supplementi”, a indicare che l’autore lo considera un lavoro marginale rispetto alla sua opera principale.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/schopenhauer.html#modelli",
+    "href": "chapters/schopenhauer.html#modelli",
+    "title": "2  Arthur Schopenhauer",
+    "section": "2.3 Modelli",
+    "text": "2.3 Modelli\nIl primo riferimento per il suo pensiero è sé stesso: nella sua opera principale, Il mondo come volontà e rappresentazione, dichiara esplicitamente che molte idee derivano dal suo primo scritto, Sulla quadruplice radice del principio di ragion sufficiente, in cui pone le basi teoriche per sviluppare il suo sistema filosofico.\n\n2.3.1 Immanuel Kant\nSchopenhauer riprende diversi concetti kantiani:\n- Ilfenomeno, che associa alla rappresentazione5.\n5 Il modo in cui percepiamo il mondo- Le intuizioni pure a priori (spazio e tempo) e le categorie (causa-effetto), che considera strumenti della mente per organizzare l’esperienza.\nTuttavia, critica Kant per non aver riconosciuto la volontà come il vero noumeno (la realtà oltre il fenomeno).\n\n\n2.3.2 Platone\nRiprende il concetto di idee platoniche: Schopenhauer le interpreta non come realtà metafisiche eterne, ma come manifestazioni superiori della volontà. Le idee rappresentano quindi archetipi, che si esprimono nelle diverse forme della natura.\n\n\n2.3.3 Filosofie Orientali\nTrova affinità tra il concetto di volontà e il Brahman dell’induismo6. Dal buddhismo riprende l’idea che il desiderio sia causa di sofferenza e che solo la rinuncia e l’ascetismo possano portare alla liberazione.\n6 Il suo interesse per queste tradizioni nasce in realta’ solo dopo aver sviluppato le sue idee",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/schopenhauer.html#concetti-chiave",
+    "href": "chapters/schopenhauer.html#concetti-chiave",
+    "title": "2  Arthur Schopenhauer",
+    "section": "2.4 Concetti chiave",
+    "text": "2.4 Concetti chiave\n\n2.4.1 La rappresentazione\nPer Schopenhauer, rappresentazione è sinonimo di fenomeno, un termine ripreso da Kant. Il mondo che percepiamo non è la realtà in sé, ma una costruzione soggettiva.\n\n\n2.4.2 Il velo di Maya\nConcetto ripreso dall’induismo, indica l’illusione che ci impedisce di vedere la vera natura del mondo. È un inganno7 che ci fa percepire la realtà come frammentata e distinta, nascondendo la sua vera essenza, che è la volontà.\n7 Ha un significato morale negativo: il velo mantiene gli esseri umani nell’errore, impedendo loro di riconoscere la sofferenza insita nella vita.\n\n2.4.3 Le quattro cause\nSchopenhauer distingue, nella sua opera Sulla quadruplice radice del principio di ragion sufficiente, quattro tipi di cause, che corrispondono a diversi livelli della realtà.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/schopenhauer.html#il-mondo-come-volontà-e-rappresentazione",
+    "href": "chapters/schopenhauer.html#il-mondo-come-volontà-e-rappresentazione",
+    "title": "2  Arthur Schopenhauer",
+    "section": "2.5 Il mondo come volontà e rappresentazione",
+    "text": "2.5 Il mondo come volontà e rappresentazione\nSchopenhauer apre l’opera con un’introduzione apprezzata per la sua scrittura chiara e lineare, in opposizione allo stile oscuro di Hegel. Dichiara di affrontare un unico argomento centrale: la volontà, che viene analizzata nella seconda parte del libro. Divide l’opera in cinque sezioni, ciascuna dedicata a un ambito filosofico diverso.\n\n2.5.1 La rappresentazione (ambito gnoseologico)\nSi occupa della conoscenza e della percezione della realtà. Qui Schopenhauer riprende Kant: il mondo che vediamo è solo fenomeno, un’apparenza soggettiva costruita dalla nostra mente attraverso le forme a priori di spazio, tempo e la causalità.\n\n\n2.5.2 La volontà (ambito metafisico-ontologico)\nQui emerge la tesi centrale dell’opera: la vera essenza del mondo non è razionale, ma un impulso cieco e irrazionale, chiamato volontà. La volontà è un principio universale che muove tutto, dalla natura agli esseri umani, spingendo ogni cosa a esistere e a lottare per la sopravvivenza.\n\n\n2.5.3 L’estetica8 (ambito estetico)\nL’arte è un mezzo per sottrarsi temporaneamente alla sofferenza della volontà.\n\n8 Mentre normalmente con “estetica” si intende la percezione della bellezza, Schopenhauer la collega a tutte le forme d’arte (musica, pittura, poesia, ecc.), viste come strumenti per contemplare le idee platoniche, distaccandosi dal desiderio e dal dolore.\n2.5.4 La liberazione dalla volontà (ambito morale)\nLa libertà, per Schopenhauer, ha un significato “negativo”, perché coincide con il superamento della volontà stessa. Per eliminare la sofferenza, l’essere umano deve rifiutare i desideri e i bisogni, contrastando il naturale impulso della volontà a perpetuarsi.\n\n\n2.5.5 La consapevolezza del nulla (ambito morale)\nL’ultima fase del cammino filosofico porta alla nullificazione della volontà9.\n9 Qui Schopenhauer si avvicina alle idee del buddhismo: la vera liberazione consiste nel riconoscere che la volontà è solo un’illusione e che il mondo, nella sua essenza, è vuoto.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/schopenhauer.html#la-volontà-ii-parte-dellopera",
+    "href": "chapters/schopenhauer.html#la-volontà-ii-parte-dellopera",
+    "title": "2  Arthur Schopenhauer",
+    "section": "2.6 La volontà (II parte dell’opera)",
+    "text": "2.6 La volontà (II parte dell’opera)\nPer Schopenhauer, la volontà non deve essere intesa come un concetto, ma come un impulso cieco e privo di finalità. La sua unica direzione è la sopravvivenza e la perpetuazione di sé stessa. È un movimento che non ha né spazio né tempo.\n\n2.6.1 Caratteristiche della Volontà10 (come Principio Metafisico):\n- Unica e universale: la stessa per ogni essere vivente.\n- Eterna e indistruttibile: Non si tratta di un lungo periodo di tempo, ma di una dimensione atemporale.\n- Cieca: La volontà non ha uno scopo razionale, è un impulso irrazionale.\n- Concreta (si esprime attraverso il corpo): La volontà si manifesta nella sua forma più concreta attraverso gli esseri viventi.\n- Priva di Scopi (solo la sopravvivenza e la perpetuazione di sé stessa)\n\n10 L’antropologia schopenhaueriana descrive l’uomo come un essere consapevole della sofferenza e della volontà, diversamente dagli animali che non possono avere la stessa consapevolezza della propria condizione. Tuttavia, la volontà è presente anche negli animali, nelle piante e nell’intero cosmo per analogia. (L’uomo può avere esperienza sia interiore che esteriore di sé).\n2.6.2 Caratteri dell’esistenza:\n- Il dolore: Tutto ciò che appartiene al mondo fenomenico è destinato a soffrire, poiché gli esseri viventi sono privi di ciò che desiderano e necessitano per il loro benessere.\n- Il piacere: L’appagamento dei desideri è temporaneo e non porta mai una soddisfazione duratura.\n- La noia: L’uomo è come un pendolo che si sposta continuamente tra il desiderio (la voglia di ottenere qualcosa) e la noia (la mancanza di scopo).\nSchopenhauer fa riferimento a soggetti eccezionali come artisti, santi, e altre figure geniali che riescono a elevarsi sopra la volontà ordinaria, abbracciando forme di creatività o rinuncia che gli permettono di comprendere meglio il mondo.\n\n\n2.6.3 La liberazione dalla volontà\nL’uomo può aspirare a liberarsi dalla volontà, ma questa liberazione non è facile e non si ottiene in modo diretto. La prima forma di liberazione proposta da Schopenhauer è l’arte11.\n11 Consente all’individuo di distaccarsi dalla volontà egoistica di vivere, per abbracciare una contemplazione disinteressata della realtà.Le idee, come modelli platonici, sono la manifestazione oggettiva della volontà di vivere. La contemplazione di queste idee è un modo per allontanarsi dal desiderio (es. crescita sociale) e raggiungere una forma di liberazione parziale. → Problema: la soluzione è temporanea\n- Architettura, Scultura e Pittura: le arti più concrete/sensibili\n- Musica: è un’arte privilegiata poiché esprime direttamente la volontà, andando oltre le idee e portando l’individuo verso l’essenza profonda del mondo.\n\n\n2.6.4 Le forme ingannevoli di liberazione\n- Amore: Sebbene l’amore possa sembrare una forma di unione positiva, in realtà è un inganno. La volontà, infatti, si manifesta nell’amore come il desiderio di procreazione12.\n12 Un atto finalizzato a perpetuare la vita della volontà stessa.- Suicidio: Il suicida non sta annullando la volontà di vivere, ma rifiutando la sofferenza della propria vita. La volontà di vivere non è soppressa, ma continua a esistere anche nella sua negazione (si suicida seguendo la volontà stessa).\n\n\n2.6.5 La liberazione finale: dalla Voluntas alla Noluntas\nSchopenhauer è spesso considerato un pessimista, ma la sua filosofia non è completamente negativa. Alla fine del suo cammino, sembra suggerire che ci sia una possibilità di liberazione dalla volontà.\nLa liberazione autentica si trova nella Noluntas, un rifiuto totale della volontà13: uno stato di quiete assoluta in cui le passioni e i desideri sono estinti (l’ascesi).\n13 Simile al Nirvana del buddhismo\n\n2.6.6 La morale\nSchopenhauer distingue tre virtù morali, ordinate dalla più passiva alla più attiva:\n- Giustizia: Rispettare i diritti degli altri.\n- Compassione: Sentire l’altrui sofferenza, ma in modo passivo.\n- Pietà: Non limitarsi alla compassione, ma agire concretamente per alleviare la sofferenza dell’altro.\nTuttavia, queste virtù non sono sufficienti per superare l’egoismo. Per questo motivo, Schopenhauer promuove l’ascesi: un percorso che porta al rinnegamento della volontà di vivere. Il modello ideale è quello della Noluntas, che rappresenta il totale ritiro dalla volontà di vivere e il raggiungimento di una condizione di pace interiore14\n14 Non riesce in realta’ a definirla, ma fa esempi come quello di San Francesco.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Arthur Schopenhauer</span>"
     ]
   }
 ]
