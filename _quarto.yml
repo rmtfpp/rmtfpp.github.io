@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-    theme: [sandstone, default.scss]
+    theme: [default]
     toc: true
 
 
