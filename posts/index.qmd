@@ -2,7 +2,8 @@
 listing:
   categories: true
   contents:
-  - '*.qmd'
+    - '*.ipynb'  
+    - '*.qmd'    
   feed: false
   filter-ui: false
   sort: date desc
