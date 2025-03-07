@@ -1,9 +1,23 @@
 [
   {
-    "objectID": "school/index.html",
-    "href": "school/index.html",
-    "title": "School",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Filippo Romiti",
     "section": "",
-    "text": "Matematica\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Scienze\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Filosofia\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n        \n      \n\n\nNo matching items"
+    "text": "Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo’ Copernico di Brescia (IT)."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Filippo Romiti",
+    "section": "",
+    "text": "Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo’ Copernico di Brescia (IT)."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Filippo Romiti",
+    "section": "Projects",
+    "text": "Projects\n\nC Projects\nyac | Yet Another Caluclator"
   }
 ]

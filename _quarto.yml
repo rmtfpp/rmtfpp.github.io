@@ -6,7 +6,10 @@ website:
   title: "Filippo Romiti"
   description: "Personal Website for notes and projects"
   navbar:
+    title: false
     left:
+      - text: "Filippo Romiti"
+        href: "/"
       - text: "Scuola"
         href: school
       - text: "Uni"
