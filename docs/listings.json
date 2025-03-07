@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/school/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/notebook-post/index.html"
+    ]
+  }
+]

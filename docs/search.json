@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/notebook-post/index.html",
+    "href": "posts/notebook-post/index.html",
+    "title": "Ipynb Post",
+    "section": "",
+    "text": "Ciao! Questo e’ un notebook di prova per la folder posts\n\nprint('ciao')"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Filippo Romiti",
@@ -19,5 +33,26 @@
     "title": "Filippo Romiti",
     "section": "Projects",
     "text": "Projects\n\nC Projects\nyac | Yet Another Caluclator"
+  },
+  {
+    "objectID": "school/index.html",
+    "href": "school/index.html",
+    "title": "School",
+    "section": "",
+    "text": "Matematica\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Scienze\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Filosofia\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n        \n      \n\n\nNo matching items"
+  },
+  {
+    "objectID": "license/index.html",
+    "href": "license/index.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2025 Filippo Romiti\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Ipynb Post\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2025\n\n\nFilippo Romiti\n\n\n\n\n\n\nNo matching items"
   }
 ]
