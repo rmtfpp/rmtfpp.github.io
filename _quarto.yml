@@ -4,11 +4,9 @@ project:
 
 website:
   title: "Filippo Romiti"
-  description: "Web mirror for my notes"
+  description: "Personal Website for notes and projects"
   navbar:
     left:
-      - text: rmtfpp
-        href: /
       - text: "Scuola"
         href: school
       - text: "Uni"
@@ -26,7 +24,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: default.scss
     toc: true
 
 

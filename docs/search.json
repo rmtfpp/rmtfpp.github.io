@@ -1,86 +1,9 @@
 [
   {
-    "objectID": "posts/notebook-post/index.html",
-    "href": "posts/notebook-post/index.html",
-    "title": "Ipynb Post",
-    "section": "",
-    "text": "Ciao! Questo e’ un notebook di prova per la folder posts\n\nprint('ciao')"
-  },
-  {
-    "objectID": "posts/building-a-compiler/index.html",
-    "href": "posts/building-a-compiler/index.html",
-    "title": "Scrivere un Copilatore in C",
-    "section": "",
-    "text": "L’astrazione e’ cio’ su cui si basa il software moderno. E’ infatti una tendenza dell’informatica quella di passare a livelli di astrazione sempre superiori col passare del tempo. Basti pensare a come si e’ passati da scrivere machine-code, passando poi ad assembly, C e i moderni linguaggi di programmazione, arrivando infine a programmare in linguaggio umano con l’intermediazione dei LLMs. Le nuove frontiere dell’informatica sono sicuramente affascinanti, ma ritengo di dover prima consolidare in modo definitivo i concetti che costituiscono le basi dell’infromatica.\nSono infatti dell’idea che le astrazioni siano strumenti potentissimi, comodissimi e fondamentali, ma credo anche che la conoscenza degli impianti teorici ad esse sottostanti sia importante dal punto di vista formativo. Per questo motivo ho deciso di iniziare questo progetto, in cui mi prefisso come obiettivo la scrittura di un compilatore.\nIn questa serie di articoli riportero’ alcuni dei passaggi fondamentali di questo percorso. Scrivero’ il compilatore in C1, per motivi di familiarita’ con la lingua e adeguatezza ai fini del progetto."
-  },
-  {
-    "objectID": "posts/building-a-compiler/index.html#introduzione",
-    "href": "posts/building-a-compiler/index.html#introduzione",
-    "title": "Scrivere un Copilatore in C",
-    "section": "",
-    "text": "L’astrazione e’ cio’ su cui si basa il software moderno. E’ infatti una tendenza dell’informatica quella di passare a livelli di astrazione sempre superiori col passare del tempo. Basti pensare a come si e’ passati da scrivere machine-code, passando poi ad assembly, C e i moderni linguaggi di programmazione, arrivando infine a programmare in linguaggio umano con l’intermediazione dei LLMs. Le nuove frontiere dell’informatica sono sicuramente affascinanti, ma ritengo di dover prima consolidare in modo definitivo i concetti che costituiscono le basi dell’infromatica.\nSono infatti dell’idea che le astrazioni siano strumenti potentissimi, comodissimi e fondamentali, ma credo anche che la conoscenza degli impianti teorici ad esse sottostanti sia importante dal punto di vista formativo. Per questo motivo ho deciso di iniziare questo progetto, in cui mi prefisso come obiettivo la scrittura di un compilatore.\nIn questa serie di articoli riportero’ alcuni dei passaggi fondamentali di questo percorso. Scrivero’ il compilatore in C1, per motivi di familiarita’ con la lingua e adeguatezza ai fini del progetto."
-  },
-  {
-    "objectID": "posts/building-a-compiler/index.html#footnotes",
-    "href": "posts/building-a-compiler/index.html#footnotes",
-    "title": "Scrivere un Copilatore in C",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIl codice sorgente si trova in questa repository↩︎"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Filippo Romiti",
-    "section": "",
-    "text": "Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo’ Copernico di Brescia (IT)."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Filippo Romiti",
-    "section": "",
-    "text": "Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo’ Copernico di Brescia (IT)."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Filippo Romiti",
-    "section": "Projects",
-    "text": "Projects\n\nC Projects\nyac | Yet Another Caluclator"
-  },
-  {
     "objectID": "school/index.html",
     "href": "school/index.html",
     "title": "School",
     "section": "",
     "text": "Matematica\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Scienze\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n            \n              \n                \n                  \n                  \n                    \n                      Filosofia\n                    \n                    \n                      2024/2025\n                    \n                  \n                \n              \n            \n          \n        \n      \n\n\nNo matching items"
-  },
-  {
-    "objectID": "license/index.html",
-    "href": "license/index.html",
-    "title": "MIT License",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2025 Filippo Romiti\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Notebook",
-    "section": "",
-    "text": "Scrivere un Copilatore in C\n\n\n\n\n\n\nc\n\n\ncompiler\n\n\n\n\n\n\n\n\n\nFeb 24, 2025\n\n\nFilippo Romiti\n\n\n\n\n\n\n\n\n\n\n\n\nIpynb Post\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2025\n\n\nFilippo Romiti\n\n\n\n\n\n\n\n\n\n\n\n\nNon lo so\n\n\n\n\n\n\nAI\n\n\n\n\n\n\n\n\n\nJan 31, 2025\n\n\nFilippo Romiti\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/getting-started-with-llms/index.html",
-    "href": "posts/getting-started-with-llms/index.html",
-    "title": "Non lo so",
-    "section": "",
-    "text": "Sto iniziando a seguire su youtube il corso di Andrej Karpathy"
   }
 ]

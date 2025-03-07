@@ -1,7 +1,6 @@
-// Sandstone 5.1.3
-// Bootswatch
+// Simple default-HTML-like Theme
 /*-- scss:defaults --*/
-$theme: "sandstone" !default;
+$theme: "default" !default;
 
 //
 // Color system
@@ -9,56 +8,61 @@ $theme: "sandstone" !default;
 
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
-$gray-200: #f8f5f0 !default;
-$gray-300: #dfd7ca !default;
-$gray-400: #ced4da !default;
-$gray-500: #98978b !default;
-$gray-600: #8e8c84 !default;
-$gray-700: #495057 !default;
-$gray-800: #3e3f3a !default;
-$gray-900: #212529 !default;
-$b-text: #111 !default;
+$gray-200: #f0f0f0 !default;
+$gray-300: #e0e0e0 !default;
+$gray-400: #d0d0d0 !default;
+$gray-500: #a0a0a0 !default;
+$gray-600: #808080 !default;
+$gray-700: #606060 !default;
+$gray-800: #404040 !default;
+$gray-900: #202020 !default;
 $black:    #000 !default;
 
-$blue:    #325d88 !default;
+// Keep these colors defined but they won't be used much in the design
+$blue:    #0000ee !default; // Classic HTML link color
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
-$red:     #d9534f !default;
+$red:     #ff0000 !default; // Classic HTML red
 $orange:  #f47c3c !default;
 $yellow:  #ffc107 !default;
-$green:   #93c54b !default;
+$green:   #008000 !default; // Classic HTML green
 $teal:    #20c997 !default;
 $cyan:    #29abe0 !default;
 
-$primary:       $blue !default;
+// Set simple black and white theme
+$primary:       $white !default;
 $secondary:     $gray-600 !default;
 $success:       $green !default;
-$info:          $cyan !default;
+$info:          $blue !default;
 $warning:       $orange !default;
 $danger:        $red !default;
-$light:         $gray-200 !default;
-$dark:          $gray-800 !default;
+$light:         $white !default;
+$dark:          $black !default;
 
-$min-contrast-ratio:   2 !default;
+$min-contrast-ratio:   4.5 !default;
 
 // Background
-
-$background-color:                $gray-300 !important;
+$background-color:     $white !important;
 
 // Body
-
-$body-color:                $b-text !default;
+$body-color:           $black !default;
+$body-bg:              $white !default;
 
 // Links
-
-$link-color:                $blue !default;
+$link-color:           $blue !default;
+$link-hover-color:     $primary !default;
+$link-decoration:      underline !default;
 
 // Fonts
-
+// Use system monospace fonts for that legacy HTML look
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:      Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$headings-font-weight:        400 !default;
+$font-family-sans-serif: "Times New Roman", Times, serif !default;
+$font-family-monospace:  "Courier New", Courier, monospace !default;
+$headings-font-family:   $font-family-sans-serif !default;
+$headings-font-weight:   bold !default;
+$font-size-base:         1rem !default;
+$line-height-base:       1.5 !default;
 
 // Dropdowns
 
@@ -98,47 +102,40 @@ $pagination-disabled-bg:            $gray-200 !default;
 $pagination-disabled-border-color:  $pagination-border-color !default;
 
 // Cards
-
-$card-border-color:                 rgba($gray-300, .75) !default;
-$card-cap-bg:                       rgba($gray-200, .25) !default;
+$card-border-color:                $gray-300 !default;
+$card-cap-bg:                      $white !default;
+$card-bg:                          $white !default;
 
 // Popovers
-
-$popover-header-bg:                 $gray-200 !default;
+$popover-bg:                       $white !default;
+$popover-header-bg:                $gray-200 !default;
 
 // Modals
-
-$modal-content-border-color:        $gray-300 !default;
-$modal-header-border-color:         $modal-content-border-color !default;
+$modal-content-bg:                 $white !default;
+$modal-content-border-color:       $gray-300 !default;
+$modal-header-border-color:        $gray-300 !default;
 
 // Progress bars
-
-$progress-bg:                       $gray-300 !default;
-$progress-border-radius:            10px !default;
-$progress-bar-color:                $primary !default;
+$progress-bg:                      $gray-200 !default;
+$progress-bar-color:               $white !default;
+$progress-bar-bg:                  $primary !default;
 
 // List group
-
-$list-group-border-color:           $gray-300 !default;
-$list-group-hover-bg:               $gray-200 !default;
-$list-group-active-color:           $body-color !default;
-$list-group-active-bg:              $gray-200 !default;
-$list-group-active-border-color:    $gray-300 !default;
-$list-group-disabled-color:         $gray-500 !default;
-$list-group-disabled-bg:            $white !default;
-$list-group-action-color:           $list-group-active-color !default;
-$list-group-action-active-color:    $list-group-active-color !default;
-$list-group-action-active-bg:       $gray-300 !default;
+$list-group-bg:                    $white !default;
+$list-group-border-color:          $gray-300 !default;
+$list-group-hover-bg:              $gray-100 !default;
+$list-group-active-color:          $black !default;
+$list-group-active-bg:             $gray-200 !default;
+$list-group-disabled-color:        $gray-500 !default;
+$list-group-disabled-bg:           $white !default;
+$list-group-action-color:          $black !default;
 
 // Breadcrumbs
-
-$breadcrumb-padding-y:              .375rem !default;
-$breadcrumb-padding-x:              .75rem !default;
-$breadcrumb-bg:                     $pagination-bg !default;
-$breadcrumb-border-radius:          .25rem !default;
+$breadcrumb-bg:                    $white !default;
+$breadcrumb-divider-color:         $gray-600 !default;
+$breadcrumb-active-color:          $gray-600 !default;
 
 // Close
-
-$btn-close-color:            $white !default;
-$btn-close-opacity:          .8 !default;
-$btn-close-hover-opacity:    1 !default;
+$btn-close-color:                  $black !default;
+$btn-close-opacity:                .5 !default;
+$btn-close-hover-opacity:          .75 !default;
