@@ -27,7 +27,7 @@ website:
 
 format:
   html:
-    theme: default.scss
+    theme: /home/rmtfpp/Templates/default.scss
     toc: true
 
 
