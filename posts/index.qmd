@@ -10,7 +10,6 @@ listing:
   sort-ui: false
   type: default
 page-layout: full
-title: Notebook
 ---
 
 
