@@ -1,5 +1,4 @@
 ---
-title: "School"
 listing:
   template: custom-listing.ejs
   contents:
