@@ -1,18 +1,16 @@
 ---
 title: "Filippo Romiti"
+#image: 
 about:
-  template: trestles
+  template: jolla
   links:
   - text: GitHub
     url: "https://github.com/rmtfpp"
   - text: Email
     url: "mailto:dev.rmtfpp@gmail.com"
-  - text: CV
-    url: "cv.pdf"
+  #- text: CV
+  #  url: "cv.pdf"
 comments: false
 ---
-
-
-## Bio
 
 Sono uno studente del quinto anno presso il Liceo Scientifico Niccolo' Copernico di Brescia (IT).
