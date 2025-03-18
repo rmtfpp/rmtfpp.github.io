@@ -2,7 +2,7 @@
 title: "Esperimenti su fenomeni di Interferenza e Diffrazione"
 author: "Filippo Romiti"
 date: "2024-05-07"
-categories: [ita, physics, python]
+categories: [Ita, Physics, Python]
 image: thumbnail.png
 ---
 
